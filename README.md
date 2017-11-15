@@ -29,13 +29,16 @@ Some kinds of diseases could be tested to assess the effect of food access and g
 
 # Our Tasks:
 Preparation: Shinya supported by Adriana
+
 Data download (the number of grocery stores per square footage / zip code area)
 
 Merge the dataset (Write the code with pandas)
 
 Regression model / Plotting
 
+
 Finalizing: Adriana supported by Shinya
+
 Mapping
 
 Webpage
