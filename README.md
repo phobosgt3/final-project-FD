@@ -26,3 +26,14 @@ https://api.census.gov/data/2015/acs/acs5/profile/variables.html
 # Possible extensions:
 Some kinds of diseases could be tested to assess the effect of food access and get the best regression model. In addition, we would map the data for food deserts and build the website if we could.
 
+
+# Our Tasks:
+Preparation: Shinya supported by Adriana
+Data download (the number of grocery stores per square footage / zip code area) -
+Merge the dataset (Write the code with pandas)
+Regression model / Plotting
+
+Finalizing: Adriana supported by Shinya
+Mapping
+Webpage
+Read me
